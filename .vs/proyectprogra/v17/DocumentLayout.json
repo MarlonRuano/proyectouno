@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|solutionrelative:proyectprogra\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|solutionrelative:proyectprogra\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|c:\\users\\hp\\onedrive\\escritorio\\proyectprogra\\proyectprogra\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|solutionrelative:proyectprogra\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|solutionrelative:proyectprogra\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|solutionrelative:proyectprogra\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|solutionrelative:proyectprogra\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|solutionrelative:proyectprogra\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\foro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|solutionrelative:proyectprogra\\foro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|solutionrelative:proyectprogra\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|solutionrelative:proyectprogra\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|solutionrelative:proyectprogra\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C6F70-9B64-41BA-A9BC-C9A111E9DA77}|proyectprogra\\proyectprogra.csproj|solutionrelative:proyectprogra\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calificacion.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Calificacion.cs",
+              "RelativeDocumentMoniker": "proyectprogra\\Calificacion.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Calificacion.cs",
+              "RelativeToolTip": "proyectprogra\\Calificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:51:26.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "proyectprogra\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\MainWindow.xaml",
+              "RelativeToolTip": "proyectprogra\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-01T23:51:26.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Foro.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Foro.cs",
+              "RelativeDocumentMoniker": "proyectprogra\\Foro.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Foro.cs",
+              "RelativeToolTip": "proyectprogra\\Foro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:51:26.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grupo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Grupo.cs",
+              "RelativeDocumentMoniker": "proyectprogra\\Grupo.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Grupo.cs",
+              "RelativeToolTip": "proyectprogra\\Grupo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:51:26.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "proyectprogra\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\MainWindow.xaml.cs",
+              "RelativeToolTip": "proyectprogra\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:51:26.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\App.config",
+              "RelativeDocumentMoniker": "proyectprogra\\App.config",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\App.config",
+              "RelativeToolTip": "proyectprogra\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-01T23:51:26.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Material.cs",
+              "RelativeDocumentMoniker": "proyectprogra\\Material.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Material.cs",
+              "RelativeToolTip": "proyectprogra\\Material.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:51:26.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\App.xaml",
+              "RelativeDocumentMoniker": "proyectprogra\\App.xaml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\App.xaml",
+              "RelativeToolTip": "proyectprogra\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-01T23:51:25.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Reporte.cs",
+              "RelativeDocumentMoniker": "proyectprogra\\Reporte.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Reporte.cs",
+              "RelativeToolTip": "proyectprogra\\Reporte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:51:26.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Evaluacion.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Evaluacion.cs",
+              "RelativeDocumentMoniker": "proyectprogra\\Evaluacion.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Evaluacion.cs",
+              "RelativeToolTip": "proyectprogra\\Evaluacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:51:26.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Curso.cs",
+              "RelativeDocumentMoniker": "proyectprogra\\Curso.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Curso.cs",
+              "RelativeToolTip": "proyectprogra\\Curso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:51:26.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Usuario.cs",
+              "RelativeDocumentMoniker": "proyectprogra\\Usuario.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\proyectprogra\\proyectprogra\\Usuario.cs",
+              "RelativeToolTip": "proyectprogra\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:51:26.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
